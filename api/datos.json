@@ -1,0 +1,13 @@
+{
+    "data": [
+
+        { "nombre": "Lavarropas", "precio": "99999", "precioCaro": false },
+        { "nombre": "Celular", "precio": "155045", "precioCaro": false },
+        { "nombre": "Parlante", "precio": "58287", "precioCaro": false },
+        { "nombre": "Zanahoria", "precio": "14", "precioCaro": true },
+        { "nombre": "Secadora", "precio": "141", "precioCaro": true },
+        { "nombre": "Palta", "precio": "2141414", "precioCaro": false },
+        { "nombre": "Guardabarros", "precio": "574", "precioCaro": true },
+        { "nombre": "hola", "precio": "241417414", "precioCaro": false }
+    ]
+}
